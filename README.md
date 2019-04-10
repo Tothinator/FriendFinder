@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of the application is to match users who surveyed similar answers and match them together. Users can access it (here.)[https://friend-finder-toth.herokuapp.com/]
+The purpose of the application is to match users who surveyed similar answers and match them together. Users can access it [here.](https://friend-finder-toth.herokuapp.com/)
 
 ## Improvements
 
