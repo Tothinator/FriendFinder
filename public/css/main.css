@@ -1,0 +1,19 @@
+html {
+    height: 100vh;
+}
+
+body, wrapper {
+    min-height: 100vh;
+}
+
+.navbar{
+    margin-bottom: 20px;
+}
+
+footer {
+    margin: 20px 0;
+}
+
+.nav-link {
+    color: white;
+}
